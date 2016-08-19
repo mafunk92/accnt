@@ -21560,7 +21560,7 @@
 	                    title: title,
 	                    icon: this.renderIcon(title),
 	                    theme: 'dark',
-	                    background: '#e9e9e9',
+	                    background: '#ecf0f5',
 	                    selected: this.state.selected === title,
 	                    onSelect: function onSelect() {
 	                        return _this2.setState({ selected: title });
