@@ -1,2 +1,2 @@
-# accnt
-Accounting MEAN Application - Will try and use Firebase to bootstrap
+# Accnt
+## An Accounting Application using React
